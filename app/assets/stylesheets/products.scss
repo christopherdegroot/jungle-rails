@@ -27,6 +27,7 @@ main section.categories-show {
         display: block;
       }
 
+
       footer {
         position: absolute;
         bottom: 0;
@@ -88,3 +89,7 @@ main section.products-show {
 }
 
 
+#header-login {
+  display: flex;
+  align-items: center;
+}
