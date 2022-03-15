@@ -2,7 +2,7 @@ require 'rails_helper'
 require 'products_controller'
 
 RSpec.describe Product, type: :model do
-  describe 'Validations' do
+  describe 'Product Validations' do
     it 'Saves a valid product' do
       @category = Category.create(name:"Boats")
       boat = Product.new(
