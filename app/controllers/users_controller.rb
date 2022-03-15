@@ -9,6 +9,7 @@ def create
     session[:user_id] = user.id
     redirect_to '/'
   else
+    flash[:alert] = "There was a problem signing up. Please try again"
     redirect_to '/signup'
   end 
 end 
