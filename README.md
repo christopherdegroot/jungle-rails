@@ -2,6 +2,20 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Features
+- Built with Ruby on Rails
+- E-commerce website with products, categories, and users
+- Admin users can create new categories and products
+- Stripe test checkout for cart purchases
+- Testing via feature spec tests: automated testing to ensure that UI is functioning as intended
+
+## Final Product
+
+Full demo: logging in, accessing cart, adding, editing, and deleting cart items, and admin user product creation. All changes persist through server resets and browser refresh.
+
+!["Desktop version of website"]()
+
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
