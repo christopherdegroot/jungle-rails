@@ -13,7 +13,7 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 Full demo: logging in, accessing cart, adding, editing, and deleting cart items, and admin user product creation. All changes persist through server resets and browser refresh.
 
-!["Desktop version of website"]()
+!["Desktop version of website"](https://raw.githubusercontent.com/christopherdegroot/jungle-rails/master/public/images/Demo.gif)
 
 
 ## Additional Steps for Apple M1 Machines
